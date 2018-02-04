@@ -1,0 +1,46 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.a
+*.la
+*.lo
+
+.vs/
+Debug/
+additional/
+msvc_libs/
+
+# Executables
+# *.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+
+#other
+*.sdf
+*.pdb
+*.ilk
+*.suo
+
+
+# Compiled python
+*.pyc
+*.zip
+*.ctm
+
+tags
+7z.exe
+7z.dll
